@@ -1,3 +1,3 @@
 module.exports = {
-    url : 'mongodb://localhost/git-ftp-remote'
+    url : 'mongodb://localhost/scotchio-mean-example'
 }
